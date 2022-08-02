@@ -6,12 +6,12 @@ title: Yuanyuan Yao
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate at KU Leuven
+role: PhD candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: ESAT, KU Leuven
+    url: https://www.esat.kuleuven.be/english/overview
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: PhD candidate
+      institution: Katholieke Universiteit Leuven, Belgium
+      year: Sept. 2022 - Present
+    - course: MSc in Electrical Engineering
+      institution: Technische Universiteit Delft, the Netherlands
+      year: Sept. 2020 - Jul. 2022
     - course: BSc in Ocean Engineering and Technology
       institution: Zhejiang University, China
-      year: 2016-2020
+      year: Sept. 2016 - Jun. 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
