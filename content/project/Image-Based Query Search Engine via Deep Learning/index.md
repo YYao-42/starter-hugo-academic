@@ -17,7 +17,7 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
-url_code: 'https://github.com/YYao-42/ImgSearch'
+url_code: 'https://github.com/YYao-42/Image-Search-Engine-for-Historical-Research'
 url_pdf: 'https://repository.tudelft.nl/islandora/object/uuid:4a2c9c6f-b2b8-41d6-9b70-69c4f246c964?collection=education'
 url_slides: ''
 url_video: ''
