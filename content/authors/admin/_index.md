@@ -6,7 +6,7 @@ title: Yuanyuan Yao
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate
+role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
