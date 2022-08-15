@@ -75,4 +75,4 @@ I am a PhD student supervised by [Prof. Alexander Bertrand](https://homes.esat.k
 My PhD project is about signal processing for EEG-based brain-computer interfaces. And I am also interested in machine learning, data science, basically everything related to getting insights from data. In my leisure time, I like poetry, novels, movies, and games. 
 <!-- The probability of going out is only about 10%, and part of me is trying to work around that :D -->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
