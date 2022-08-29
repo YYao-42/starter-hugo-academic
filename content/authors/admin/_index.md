@@ -19,19 +19,19 @@ organizations:
 # Interests to show in About widget
 interests:
   - Signal Processing
-  - Machine Learning
   - Brain-Computer Interface
+  - Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD candidate
+    - course: PhD student
       institution: Katholieke Universiteit Leuven, Belgium
       year: Sept. 2022 - Present
     - course: MSc in Electrical Engineering
       institution: Technische Universiteit Delft, the Netherlands
       year: Sept. 2020 - Jul. 2022
-    - course: BSc in Ocean Engineering and Technology
+    - course: BEng in Ocean Engineering and Technology
       institution: Zhejiang University, China
       year: Sept. 2016 - Jun. 2020
 
