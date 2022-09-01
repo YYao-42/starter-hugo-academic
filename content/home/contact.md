@@ -25,7 +25,7 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: yuanyuan.yao@student.kuleuven.be
+  email: yuanyuan.yao@kuleuven.be
   # phone: +31 613817283
   address:
     street: Kasteelpark Arenberg 10
