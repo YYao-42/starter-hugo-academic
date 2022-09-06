@@ -37,7 +37,7 @@ content:
   coordinates:
     latitude: '50.8620'
     longitude: '4.6859'
-  directions: Office to be determined :)
+  directions: Office B00.29
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
