@@ -72,7 +72,7 @@ highlight_name: true
 
 I am a PhD student supervised by [Prof. Alexander Bertrand](https://homes.esat.kuleuven.be/~abertran/) at [STADIUS](https://www.esat.kuleuven.be/stadius/), Department of Electrical Engineering, KU Leuven. Prior to this, I obtained my MSc degree at TU Delft under the supervision of [Prof. Justin Dauwels](http://microelectronics.tudelft.nl/People/bio.php?id=744), and my BSc degree at ZJU under the supervision of [Prof. Jiang Zhu](https://person.zju.edu.cn/en/zhujiang).
 
-My PhD project is about signal processing for EEG-based brain-computer interfaces. And I am also interested in machine learning, data science, basically everything related to getting insights from data. In my leisure time, I like poetry, novels, movies, and games. 
+My PhD project is about signal processing for EEG-based brain-computer interfaces. The objective is to identify and quantify the temporal coupling between natural video clips and elicited EEG responses. And I am also interested in machine learning, data science, basically everything related to getting insights from data. In my leisure time, I like poetry, novels, movies, and games.
 <!-- The probability of going out is only about 10%, and part of me is trying to work around that :D -->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
