@@ -1,5 +1,5 @@
 ---
-title: 'Identifying Temporal Correlations Between Natural Single-shot Videos and EEG Signals'
+title: 'Stimulus-Informed Generalized Canonical Correlation Analysis for Group Analysis of Neural Responses to Natural Stimuli'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
