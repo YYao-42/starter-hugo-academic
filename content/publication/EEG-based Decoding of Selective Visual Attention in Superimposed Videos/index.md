@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'paper.pdf'
 url_code: 'https://github.com/YYao-42/EEG-based_SVAD'
 url_dataset: 'https://zenodo.org/records/15665101'
 url_poster: ''
