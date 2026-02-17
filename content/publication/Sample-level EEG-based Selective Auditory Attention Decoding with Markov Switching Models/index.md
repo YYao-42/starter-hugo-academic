@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'paper.pdf'
+url_pdf: ''
 url_code: 'https://github.com/YYao-42/MSM'
 url_dataset: ''
 url_poster: ''
