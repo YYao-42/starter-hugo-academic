@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'paper.pdf'
+url_pdf: '/uploads/SIGCCA.pdf'
 url_code: 'https://github.com/AlexanderBertrandLab/si-gcca'
 url_dataset: ''
 url_poster: ''

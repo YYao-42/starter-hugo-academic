@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'paper.pdf'
+url_pdf: '/uploads/ObjFlow.pdf'
 url_code: 'https://github.com/YYao-42/Identifying-Temporal-Correlations-Between-Natural-Single-shot-Videos-and-EEG-Signals'
 url_dataset: 'https://zenodo.org/records/10512414'
 url_poster: ''
