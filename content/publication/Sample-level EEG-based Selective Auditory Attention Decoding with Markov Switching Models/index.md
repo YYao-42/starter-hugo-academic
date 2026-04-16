@@ -16,7 +16,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2026-02-13T00:00:00Z'
-doi: 'https://arxiv.org/abs/2602.13447'
+doi: 'https://doi.org/10.48550/arXiv.2602.13447'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
