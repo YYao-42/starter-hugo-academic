@@ -16,7 +16,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2025-09-18T00:00:00Z'
-doi: '10.48550/arXiv.2509.14764'
+doi: 'https://doi.org/10.1109/ICASSP55912.2026.11463204'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -25,11 +25,11 @@ publishDate: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 'ArXiv'
-publication_short: 'ArXiv'
+publication: '2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
+publication_short: 'ICASSP'
 
 abstract: Decoding the attended speaker in a multi-speaker environment from electroencephalography (EEG) has attracted growing interest in recent years, with neuro-steered hearing devices as a driver application. Current approaches typically rely on ground-truth labels of the attended speaker during training, necessitating calibration sessions for each user and each EEG set-up to achieve optimal performance. While unsupervised self-adaptive auditory attention decoding (AAD) for stimulus reconstruction has been developed to eliminate the need for labeled data, it suffers from an initialization bias that can compromise performance. Although an unbiased variant has been proposed to address this limitation, it introduces substantial computational complexity that scales with data size. This paper presents three computationally efficient alternatives that achieve comparable performance, but with a significantly lower and constant computational cost. The code for the proposed algorithms is available at https://github.com/YYao-42/Unsupervised_AAD.
 
