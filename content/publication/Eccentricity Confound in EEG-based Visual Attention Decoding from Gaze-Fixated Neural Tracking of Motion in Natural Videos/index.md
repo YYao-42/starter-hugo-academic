@@ -17,8 +17,8 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2026-04-16T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2604.15223'
+date: '2026-09-18T00:00:00Z'
+doi: 'https://doi.org/10.1088/1741-2552/aea449'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -27,13 +27,13 @@ publishDate: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'ArXiv'
-publication_short: 'ArXiv'
+publication: 'Journal of Neural Engineering'
+publication_short: 'JNE'
 
-abstract: Objective. Decoding visual attention from brain signals during naturalistic video viewing has emerged as a new direction in brain-computer interface research. Current methods assume that stronger coupling between object motion and neural activity indicates higher attention, but this can be confounded by eye movement artifacts and stimulus properties. This study investigates how visual eccentricity—the distance between a visual object and the fixation point—affects neural responses when eye movement artifacts are controlled. Approach. EEG signals were recorded across three tasks that manipulated object eccentricity and attention conditions while participants maintained gaze fixation. Correlation analysis and match-mismatch decoding were performed to quantify the neural tracking of object motion. Main results. The analysis supports three conclusions. (1) neural tracking of object motion in natural videos works under gaze fixation; (2) the strength of neural tracking under gaze fixation is predictive of attention; and (3) there exists a significant eccentricity confound in the EEG responses, with poorer neural tracking of motion at larger eccentricities. Significance. These results provide critical evidence that findings from previous free-viewing studies reflect genuine neural processing rather than mere oculomotor artifacts. However, the identified eccentricity effect highlights a major limitation for current decoding approaches that assume coupling strength reflects attention levels alone. 
+abstract: Objective. Decoding visual attention from brain signals during naturalistic video viewing has emerged as a new direction in brain-computer interface research. Current methods assume that stronger coupling between object motion and neural activity indicates higher attention, but this can be confounded by eye movement artifacts and stimulus properties. This study investigates how visual eccentricity—the distance between a visual object and the fixation point—affects neural responses when eye movement artifacts are controlled. Approach. EEG signals were recorded across three tasks that manipulated object eccentricity and attention conditions while participants maintained gaze fixation. Correlation analysis and match-mismatch decoding were performed to quantify the neural tracking of object motion. Main results. The analysis supports three conclusions. (1) neural tracking of object motion in natural videos works under gaze fixation; (2) the strength of this tracking under gaze fixation is modulated by attention; and (3) there exists a significant eccentricity confound in the EEG responses, with poorer neural tracking of motion at larger eccentricities. Significance. These results indicate that findings from previous free-viewing studies also reflect genuine neural processing rather than mere oculomotor artifacts. However, the identified eccentricity effect highlights a major limitation for current decoding approaches that assume coupling strength reflects attention levels alone.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -49,7 +49,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: '/uploads/Eccentricity.pdf'
-url_code: ''
+url_code: 'https://github.com/YYao-42/Eccentricity_Confound'
 url_dataset: ''
 url_poster: ''
 url_project: ''
